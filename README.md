@@ -7,3 +7,7 @@ EDIT: nvm idk what the meaning of life is
 ## SubHeader
 
 He who can not find the meaning of life, is doomed to live a life of nothingness.
+
+## Another Header
+
+1. Open index.html in your browswer. 
